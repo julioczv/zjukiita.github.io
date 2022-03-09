@@ -23,7 +23,7 @@ body{
 
 /*HEADER */
 header{
-    background-color: #45dbfc;
+    background-image: url(assets/img/fundo.jpg);
     padding:30px 30px 0;
     
 }
@@ -81,6 +81,11 @@ header .coluna ul li a{
 
 
 /*FOOTER */
+.redes h1{
+    color: cyan;
+    text-align: center;
+    font-size: 25px;
+}
 footer{
     background-color: #04133d;
 }
