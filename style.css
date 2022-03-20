@@ -30,7 +30,6 @@ header{
 
 
 header .container{
-    background-color:white;
     text-align: center;
 }
 
@@ -87,7 +86,7 @@ header .coluna ul li a{
     font-size: 25px;
 }
 footer{
-    background-color: #04133d;
+    background-image: url(https://www.ufrgs.br/setorsuinos/wp-content/uploads/2019/07/fundo-azul-degrade-2.jpg);
 }
 footer .container{
     padding: 20px;
@@ -192,7 +191,7 @@ main .coluna section ul li p{
         text-align: left;
     }
     main .coluna section{
-        border: 1px solid #d4e9ff;     
+        border: 5px solid #8ec0f6;     
     }
     main .coluna section{
         padding: 20px;
